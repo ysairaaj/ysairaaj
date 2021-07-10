@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ysairaaj
-- 👀 I’m interested in ML/AI
+- 👀 I’m interested in Data Science/ML/AI
 - 🌱 I’m currently learning at Indian Institute of Technology Guwahati
 - 📫 How to reach me - Email - ysairaaj444@gmail.com
 
