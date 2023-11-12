@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ysairaaj
 - 👀 I’m interested in SDE/Data Science/ML/AI
-- 🌱 I’m currently learning at Indian Institute of Technology Guwahati
+- 🌱 I'm a 2023 Btech ECE graduate from Indian Institute of Technology Guwahati
 - 📫 How to reach me - Email - ysairaaj444@gmail.com
 
 <!---
